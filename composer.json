@@ -1,0 +1,17 @@
+{
+    "name": "php-curl-basic/php-curl-basic",
+    "description": "Basic curl class",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Horvath Andras",
+            "email": "horvathandrasmate@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"curl\\": "src/"}
+    },
+    "require": {}
+}
