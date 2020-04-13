@@ -1,7 +1,7 @@
 {
     "name": "php-curl-basic/php-curl-basic",
     "description": "Basic curl class",
-    "type": "composer-plugin",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
